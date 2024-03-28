@@ -161,6 +161,10 @@ margin-bottom: 15px;
     background: #fff;
     padding: 40px;
 }
+.aboutMe{
+    font-style:oblique;
+    
+}
 
 
 .title2{
@@ -169,42 +173,12 @@ margin-bottom: 15px;
     letter-spacing: 1px;
     margin-bottom: 1px
 }
-#box1{
-    
-    border: 3px dotted black;
-    padding: 5px;
-    margin: 5px;
-    font-weight: 30px;
-    color: rgb(19, 107, 107);
 
+.baslik{
+    color: red;
+    background-color: cyan;
 }
-#box2{
-    
-    border: 3px dotted black;
-    padding: 5px;
-    margin: 5px;
-    font-weight: 30px;
-    color: rgb(19, 107, 107);
 
-}
-#box3{
-    
-    border: 3px dotted black;
-    padding: 5px;
-    margin: 5px;
-    font-weight: 30px;
-    color: rgb(19, 107, 107);
-
-}
-#box4{
-    
-    border: 3px dotted black;
-    padding: 5px;
-    margin: 5px;
-    font-weight: 30px;
-    color: rgb(19, 107, 107);
-
-}
 #skills .box {
 
 position: relative;
@@ -260,4 +234,9 @@ align-items: center;
     left: 0;
     height: 100%;
     background: red;
+}
+a:hover{
+    color:cyan;
+    background: green;
+
 }
