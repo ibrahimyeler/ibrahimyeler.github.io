@@ -14,7 +14,9 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    min-height: 100vh;
+    min-height: 90vh;
+    font-size: 12.5px;
+   
 }
 
 
@@ -25,9 +27,9 @@ body {
     min-height: 1000px;
     background: #fff;
     display: grid;
-    grid-template-columns: 1fr 2fr;
+    grid-template-columns: 0.5fr 1fr;
     box-shadow: 0 35px 55px rgba(0, 0, 0, 0.1);
-    margin: 50px;
+    margin: 20px;
 }
 
 
