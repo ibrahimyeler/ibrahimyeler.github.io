@@ -163,13 +163,9 @@ margin-bottom: 15px;
     background: #fff;
     padding: 40px;
 }
-.aboutMe{
-    font-style:oblique;
-    
-    
-}
+
 .aboutMe h3{
-    color: red;
+    color: rgb(100, 63, 109);
 }
 
 
@@ -183,7 +179,6 @@ margin-bottom: 15px;
 
 .baslik{
     color: red;
-    background-color: cyan;
     font-weight: 700;
 
 }
@@ -280,4 +275,13 @@ a:link {
     color: yellow;
     background-color: transparent;
     text-decoration: underline;
+  }
+  #myProjects{
+    color: rgb(100, 63, 109);
+    font-weight: 700;
+  }
+  #projectBaslik{
+    color: red;
+    font-weight: 500;
+    
   }
