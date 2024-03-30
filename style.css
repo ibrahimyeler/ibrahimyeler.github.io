@@ -189,6 +189,7 @@ margin-bottom: 15px;
 }
 
 
+
 #skills .box {
 
 position: relative;
@@ -258,11 +259,6 @@ align-items: center;
     left: 0;
     height: 100%;
     background: red;
-
-}
-a:hover{
-    color:cyan;
-    background: green;
 
 }
 a:link {
