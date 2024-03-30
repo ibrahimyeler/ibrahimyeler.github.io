@@ -166,6 +166,10 @@ margin-bottom: 15px;
 .aboutMe{
     font-style:oblique;
     
+    
+}
+.aboutMe h3{
+    color: red;
 }
 
 
@@ -176,10 +180,14 @@ margin-bottom: 15px;
     margin-bottom: 1px
 }
 
+
 .baslik{
     color: red;
     background-color: cyan;
+    font-weight: 700;
+
 }
+
 
 #skills .box {
 
@@ -257,4 +265,23 @@ a:hover{
     background: green;
 
 }
-
+a:link {
+    color: green;
+    background-color: transparent;
+    text-decoration: none;
+  }
+  a:visited {
+    color: pink;
+    background-color: transparent;
+    text-decoration: none;
+  }
+  a:hover {
+    color: red;
+    background-color: transparent;
+    text-decoration: underline;
+  }
+  a:active {
+    color: yellow;
+    background-color: transparent;
+    text-decoration: underline;
+  }
