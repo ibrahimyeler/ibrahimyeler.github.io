@@ -151,7 +151,7 @@ body {
 .aboutMe h3 {
   color: rgb(100, 63, 109);
 }
-#skills h3{
+#skills h3 {
   color: rgb(100, 63, 109);
   font-weight: 700;
 }
@@ -166,7 +166,6 @@ body {
   color: red;
   font-weight: 700;
 }
-
 
 a:link {
   color: green;
@@ -197,7 +196,7 @@ a:active {
   font-weight: 500;
 }
 
-#projects{
+#projects {
   color: rgb(48, 26, 74);
   font-weight: 500;
 }
